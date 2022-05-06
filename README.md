@@ -1,4 +1,4 @@
-# GF1-RS-index
+# GF1-RS-index-batch-process
 - Gf-1 WFV is a 16 m resolution sensor, with 4 bands.The software can calculate multiple remote sensing indices (NDVI, OSAVI, RVI, EVI, NDWI) and surface reflectance of ROI at the same time, extract them to the .csv file, and automatically rename followed the GF-1 file naming rules.
 - GF-1 WFV是我国高分一号16米分辨率WFV传感器，拥有4个波段。本软件可以实现同时对多幅影像指定的多个感兴趣区域计算多个遥感指数（NDVI, OSAVI, RVI, EVI, NDWI）以及各波段地表反射率值Ref，并提取到csv文件，并自动按照GF-1文件命名规则提取日期等信息自动批量命名输出文件。
 
